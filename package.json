@@ -1,0 +1,11 @@
+{
+  "name": "project_euler",
+  "version": "1.0.0",
+  "description": "Euler Project First 50 Questions",
+  "main": "euler.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Selda G.",
+  "license": "ISC"
+}
